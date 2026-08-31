@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ProperSwitches") (type "KiCad") (uri "${KIPRJMOD}/ProperSwitches.pretty") (options "") (descr ""))
+)
