@@ -45,7 +45,7 @@ The full PCB was designed with KiCAD
 ## Firmware
 
 The firmware for this keyboard is built using QMK. While the framework is C-based, configuring the board primarily involved utilizing the standard QMK file structure to define the hardware and layout:
-* **`info.json` & `config.h`:** Keyboard matrix, MCU definitions, and hardware config.
-* **`rules.mk`:** Bootloader selection.
-* **`keymap.c`:** Keymap and layer definitions (able to change config with VIA) .
+* **`info.json` & `config.h`:** Keyboard matrix, MCU definitions, and hardware config
+* **`rules.mk`:** Bootloader selection
+* **`keymap.c`:** Keymap and layer definitions (able to change config with VIA)
 
