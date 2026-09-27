@@ -18,7 +18,7 @@
 
 ## Purpose & Motivation
 
-When I was 15, I bought my first custom mechanical keyboard: a QK60 from Qwertykeys alongside Gateron yellow switches and some cheap keycaps I found on amazon. However, I encountered a problem when I accidently took out the PCB with the JST connector still plugged in, ripping the socket on the daughterboard (where the usb-c connecter was). Devastated, this experience essentially drove me into PCB design through online guides and communities. 2 years later, I with more PCB design experience, I decided to create my own 65% keyboard (my personal favorite form factor, who uses the numpad anyways, am I right!?).     
+When I was 15, I bought my first custom mechanical keyboard: a QK60 from Qwertykeys alongside Gateron yellow switches and some cheap keycaps from amazon. However, I encountered a problem when I accidently took out the PCB with the JST connector still plugged in, ripping the socket on the daughterboard (where the usb-c was). Devastated, this experience essentially brought me into PCB design through online guides and communities. 2 years later, with more PCB design experience, I decided to create my own 65% keyboard (my personal favorite form factor. Who uses the numpad anyways!?).     
 
 ## Design
 
