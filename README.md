@@ -1,4 +1,4 @@
-# [Custom 65% Keyboard PCB]
+# Custom 65% Keyboard PCB
 ![KiCad](https://img.shields.io/badge/KiCad-FFFFFF?style=flat-square&logo=kicad&logoColor=blue)
 ![QMK](https://img.shields.io/badge/QMK-111111?style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
